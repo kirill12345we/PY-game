@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Nov 26 14:58:58 2019
-
-@author: MSI
-"""
 import pygame
 import math
 import random
